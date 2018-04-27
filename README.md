@@ -1,2 +1,2 @@
-# to-do-angular-backend
-The JDBC backend to my to-do web application.
+# aws-assignment-backend
+The JDBC backend to my web application.
